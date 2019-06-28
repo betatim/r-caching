@@ -1,5 +1,5 @@
 install.packages("httr")
 
-install.packages("readr")
-library(readr)
-mystring <- read_file("README.md")
+
+fileName <- 'README.md'
+readChar(fileName, file.info(fileName)$size)
