@@ -1,2 +1,2 @@
 # r-caching
-exploring faster R builds.
+Exploring faster R builds.
